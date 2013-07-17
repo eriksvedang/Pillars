@@ -18,9 +18,11 @@ On your turn you can perform one action out of the following:
 
 Play cards in a suit that is not currently engaged in a battle. This starts a new battle for this color. You can play as many cards as you want as long as the total sum of the cards do not exceed 15 + the number of scored Spades you have.
 
-	Example: You have scored two spades. Now you can play an attack of a total sum of 	17, for example 7 of Diamonds and 10 of Diamonds.
+	Example: You have scored two spades. Now you can play an attack of a total sum of 17, for example 7 of Diamonds and 10 of Diamonds.
 
+The face cards always has the value equal to the highest card you play in the attack.
 
+	Example: You attack with a Queen, a 2 and a 6 of Hearts. The queen gets the value 6 so the total value of the cards is 6 + 6 + 2 = 14.
 
 ### Defend
 
